@@ -1,0 +1,10 @@
+Placeholder files for GIFs:
+- naruto+sasuke.gif (main animated GIF of Naruto and Sasuke)
+- naruto-maju.gif (Naruto moving forward GIF)
+- sasuke+maju.gif (Sasuke moving forward GIF)  
+- klik+me.gif (Click me button GIF, 44x44 pixels)
+- naruto-naruto-shippuden.gif (Background GIF for video section)
+- naruto+marah.gif (Angry Naruto GIF for author section background)
+
+Note: Replace these placeholder references with actual GIF files when available.
+For now, the website will show broken image icons where GIFs should be.
