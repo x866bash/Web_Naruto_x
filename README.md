@@ -130,9 +130,9 @@ pnpm run lint
 - **GIF Files**: Letakkan file GIF di folder `public/gif/`
 - **Responsive**: Website otomatis menyesuaikan dengan berbagai ukuran layar
 
-## File GIF yang Dibutuhkan
+## File GIF yang Disimpan
 
-Letakkan file-file berikut di folder `public/gif/`:
+File file gif di simpan di sini `public/gif/`:
 - `naruto+sasuke.gif` - GIF utama Naruto dan Sasuke
 - `naruto-maju.gif` - Naruto bergerak maju
 - `sasuke+maju.gif` - Sasuke bergerak maju  
